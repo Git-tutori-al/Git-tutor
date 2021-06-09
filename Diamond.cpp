@@ -16,4 +16,5 @@ int main(){
 	}
 	getchar();
 	return 0;
+	// tao co tinh tao conflict do!!
 }
